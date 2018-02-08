@@ -1,5 +1,5 @@
 const app = "I don't do much."
 
-functino kittens() {
-  var kittens = 
+function kittens() {
+  var kittens =  ["Milo", "Otis", "Garfield"]
 }
