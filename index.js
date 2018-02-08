@@ -21,5 +21,5 @@ function destructivelyRemoveFirstKitten(name) {
 }
 
 function appendKitten(name) {
-  kittens.shift(name)
+  [kittens, ...name]
 }
